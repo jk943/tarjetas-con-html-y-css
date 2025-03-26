@@ -1,0 +1,45 @@
+h1{
+    color: blueviolet;
+}
+
+h1:hover{
+    background-color: rgba(210, 105, 30, 0.696);
+    color: rgba(0, 0, 0, 0.689);
+    
+}
+
+h2{
+    color: burlywood;
+}
+
+h3{
+    color: chartreuse;
+}
+
+p{
+    color: darkred;
+}
+
+img{
+    width: 250px;
+}
+
+img:hover{
+    width:400px;
+}
+
+
+.frontend{
+    background-color: darkorange;
+}
+
+section{
+    color: blue;
+}
+
+#nuestros-proyectos{
+    color: blueviolet;
+}
+
+
+
